@@ -6,6 +6,7 @@ This project is part of the Google Advanced Data Analytics Professional Certific
 The project chosen was the Automatidata Project.
 
 This project uses a sample of the data available in this [link](https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3hs/about_data)
+
 The sample was made available in the project internal jupyter notebooks on Coursera, this sample is avalable on "./data/raw"
 
 Documentation for the project data can be found either in the link of the data or in the "./notebooks/tlc_exploration_n1.ipynb" archive.
@@ -19,6 +20,7 @@ Este projeto é parte do Certificado Profissional Google Advanced Data Analytics
 O projeto escolhido foi o Automatidata Project
 
 Esse projeto utiliza uma amostra dos dados disponíveis neste [link](https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3hs/about_data)
+
 A amostra foi disponibilizada nos jupyter notebooks internos no Coursera, a amostra está disponível em "./data/raw"
 
 A documentação dos dados do projeto pode ser encontrada tanto no link dos dados, como no arquivo "./notebooks/tlc_exploration_n1.ipynb".
